@@ -4,6 +4,8 @@ Article and reproducible pay analysis by Kyle Peyton. This release freezes the a
 
 ## Read
 
+**[Read the article online](https://kyle-peyton.com/unimelb-pay/).**
+
 - [Download the HTML article](https://github.com/kylepeyton/unimelb-pay-analysis/raw/refs/heads/main/public-article-kp.html) and open it in your browser.
 - [Read or download the PDF](https://github.com/kylepeyton/unimelb-pay-analysis/blob/main/public-article-kp-print.pdf).
 - [Download all code and data](https://github.com/kylepeyton/unimelb-pay-analysis/archive/refs/heads/main.zip).
