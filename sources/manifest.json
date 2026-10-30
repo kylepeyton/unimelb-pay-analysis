@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ea2018",
+    "title": "University of Melbourne Enterprise Agreement 2018",
+    "url": "https://staff.unimelb.edu.au/__data/assets/pdf_file/0011/2898416/2018-Enterprise-Agreement.pdf",
+    "locator": "Clause 1.10; academic table PDF p41; professional table PDF p65",
+    "archived_original_sha256": "77ece4ffed25bf973ded4e99638b8353254386bd939402e33804f179768138ee",
+    "original_included": false
+  },
+  {
+    "id": "fwc2024",
+    "title": "FWC approved 2024 agreement, AE524065",
+    "url": "https://www.fwc.gov.au/documents/agreements/approved/ae524065.pdf",
+    "locator": "Approval decision [2024] FWCA 1179; academic table PDF p110; professional tables PDF pp111\u2013114; administrative rates PDF pp128\u2013129",
+    "archived_original_sha256": "d865be69686d1ae3ee563cfd5a700c9801bfed3e2335e8a49f28766d3136b262",
+    "original_included": false
+  },
+  {
+    "id": "fwc2018",
+    "title": "FWC 2018 agreement and 2020 variation, AE502413",
+    "url": "https://www.fwc.gov.au/documents/agreements/fwa/ae502413.pdf",
+    "locator": "Includes [2020] FWCA 5143 variation of redundancy clause 1.41.6; historical salary schedules",
+    "archived_original_sha256": "c4747249dbdf093ac47ae0801b12d8d6693a19636c53a8af434dbd30f597b6d8",
+    "original_included": false
+  },
+  {
+    "id": "fwc2003",
+    "title": "2003 agreement, AG837567 (background archive)",
+    "url": "https://www.fwc.gov.au/documents/agreements/awd/ag837567.pdf",
+    "locator": "Certification PR953453, 18 November 2004; not used for the 2019-onward calculation; public URL requires verification",
+    "archived_original_sha256": "139d0ae4ff4bdf83dda9bff2a2a47a7350c9dcb765ae7d5d6e6a7b6821cf9575",
+    "original_included": false
+  },
+  {
+    "id": "fwc2013",
+    "title": "University of Melbourne Enterprise Agreement 2013 (AE406763)",
+    "url": "https://www.fwc.gov.au/document-view/agreements/university-of-melbourne-enterprise-agreement-2013",
+    "locator": "Clause 43.2, printed p44 (PDF p85); Schedule 1 printed pp87\u201398; bundle includes approval and later termination decisions",
+    "archived_original_sha256": "ae2557d3c2682f6ddc17649c548697db06912bc6fafad7f717da9ba7c50df8f1",
+    "original_included": false
+  },
+  {
+    "id": "fwc2010",
+    "title": "University of Melbourne Collective Agreement 2010 (AE878271)",
+    "url": "https://www.fwc.gov.au/document-view/agreements/the-university-of-melbourne-collective-agreement-2010",
+    "locator": "Clause 44.2 printed p32; Schedule 1 printed pp72\u201374; approval decision confirms nominal expiry 30 June 2012",
+    "archived_original_sha256": "28a22e49b5fb3b0c37042935e4efaef222698923b81411c35f42d1c8c01605b1",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20050617112342",
+    "title": "UniMelb published salary scales effective 2005-04-09 (Wayback capture 20050617112342)",
+    "url": "https://web.archive.org/web/20050617112342/http://www.unimelb.edu.au/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "7d3d8d1106c2d555f4e9f7fe9279331b367728f89c85cde0343db228ee8354e9",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20051125175823",
+    "title": "UniMelb published salary scales effective 2005-09-10 (Wayback capture 20051125175823)",
+    "url": "https://web.archive.org/web/20051125175823/http://www.unimelb.edu.au:80/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "4928898ebcb6fa06afd1565a9fb1a340b5a69f180e8e5156681049bc7616071f",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20060515234126",
+    "title": "UniMelb published salary scales effective 2006-04-08 (Wayback capture 20060515234126)",
+    "url": "https://web.archive.org/web/20060515234126/http://www.unimelb.edu.au:80/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "ac8dd07af4f6f1a89588bdc38aa496deac8d79afb942795450c53b7493b43df6",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20060821032831",
+    "title": "UniMelb published salary scales effective 2006-07-01 (Wayback capture 20060821032831)",
+    "url": "https://web.archive.org/web/20060821032831/http://www.unimelb.edu.au/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "ca26215316701810164f063a78004a624b521d86df9403d48a1d79e3a25b5dde",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20070607064111",
+    "title": "UniMelb published salary scales effective 2007-04-07 (Wayback capture 20070607064111)",
+    "url": "https://web.archive.org/web/20070607064111/http://www.unimelb.edu.au/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "b0e09c2a53950a2b44e5c2f28eb603ecd574161ebe97e57bbd7e3eeaaf8b1ee8",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20071115222838",
+    "title": "UniMelb published salary scales effective 2007-10-06 (Wayback capture 20071115222838)",
+    "url": "https://web.archive.org/web/20071115222838/http://www.unimelb.edu.au/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "08feda19bc355ea901ac0f1a15039124a934c4150aa2dd67e6150e59e95c7ba4",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20080908014833",
+    "title": "UniMelb published salary scales effective 2008-04-05 (Wayback capture 20080908014833)",
+    "url": "https://web.archive.org/web/20080908014833/http://www.unimelb.edu.au/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "f1e21adc35c6d7bc7c6a8df50461ed0908bef612d0c43c9227db98ff0c9c687e",
+    "original_included": false
+  },
+  {
+    "id": "salary_archive_20090303105354",
+    "title": "UniMelb published salary scales effective 2008-10-04 (Wayback capture 20090303105354)",
+    "url": "https://web.archive.org/web/20090303105354/http://unimelb.edu.au:80/ppp/docs/16.html",
+    "locator": "Personnel Policy and Procedures Manual 16; academic section 16.1.1.1, professional/general section 16.2.1",
+    "archived_original_sha256": "468aee8318a852bcb9f1dbafcd82074f3208e4dda26b0f99fec1134af740a481",
+    "original_included": false
+  },
+  {
+    "id": "cpi_quarterly_sep2026",
+    "title": "ABS September 2026 CPI, Table 17: quarterly all-groups indices",
+    "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/sep-2026/6401017.xlsx",
+    "locator": "Data1; national original index series A2325846C",
+    "archived_original_sha256": "59c89bf477cec8075dfa80f1c29f97654f16f148b11427bed35fbad869eb7d47",
+    "original_included": false
+  }
+]

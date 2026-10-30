@@ -1,0 +1,25 @@
+{
+  "release": "2026-10-30",
+  "author": "Kyle Peyton",
+  "original_frozen_at": "2026-10-30T17:11:51.786666+11:00",
+  "original_rmd_sha256": "5c774899e28f654bdb10c53c0af23a3daea32c842f8b6b7ffdd5316735484548",
+  "release_rmd_sha256": "e0e62883af81c88d8bb26e4064159f98dfa2d5bc67c514f48d6e3096fb953f42",
+  "prose_changed": false,
+  "technical_change": "Escape the percent sign in the appendix inflation-threshold equation; exact diff in RELEASE-CHANGES.patch.",
+  "licences": {
+    "original_code": "MIT",
+    "original_article_and_figures": "CC-BY-4.0",
+    "third_party": "Original terms apply; see LICENSING.md"
+  },
+  "build": {
+    "R": "4.6.0",
+    "readabs": "0.4.30",
+    "pandoc": "3.10",
+    "playwright": "1.62.1",
+    "pdf_browser": "Google Chrome 156",
+    "platform": "macOS arm64",
+    "locked_R_packages": 83
+  },
+  "inputs": "Bundled public-record salary CSVs and archived ABS workbook; no login required for build.",
+  "repository": "https://github.com/kylepeyton/unimelb-pay-analysis"
+}

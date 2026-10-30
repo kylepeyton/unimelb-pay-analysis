@@ -1,0 +1,16 @@
+.DS_Store
+.local-library/
+node_modules/
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+*.tex
+*_cache/
+*_files/
+renv/library/
+renv/staging/
+private/
+backups/
+.env
+.env.*

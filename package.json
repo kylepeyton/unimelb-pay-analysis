@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "description": "Optional HTML-to-PDF renderer",
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "scripts": {
+    "pdf": "node scripts/render_pdf.mjs"
+  }
+}

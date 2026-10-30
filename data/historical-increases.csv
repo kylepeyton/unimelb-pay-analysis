@@ -1,0 +1,15 @@
+scheduled_date,rate,source_id,locator,classification
+2013-04-27,0.025,fwc2013,Schedule 1 opening salary columns; bridge from 2010 final salary schedule,Already included in opening rates
+2014-05-01,0.03,fwc2013,Clause 43.2,New agreement increase
+2015-05-01,0.03,fwc2013,Clause 43.2,New agreement increase
+2016-05-01,0.03,fwc2013,Clause 43.2,New agreement increase
+2017-05-01,0.035,fwc2013,Clause 43.2,New agreement increase
+2018-05-01,0.021,ea2018,Clause 1.10.1.1; retrospective entitlement with eligibility restrictions,Retrospective agreement increase
+2019-05-01,0.021,ea2018,Clause 1.10.1.2,New agreement increase
+2020-05-01,0.022,ea2018,Clause 1.10.1.3,New agreement increase
+2021-05-01,0.022,ea2018,Clause 1.10.1.4,New agreement increase
+2022-05-01,0.025,fwc2024,Schedule B,Pre-agreement administrative increase
+2023-05-01,0.04,fwc2024,Schedule B,Pre-agreement administrative increase
+2024-05-01,0.04,fwc2024,Clause 1.10.1.1,New agreement increase
+2025-05-01,0.025,fwc2024,Clause 1.10.1.2,New agreement increase
+2025-11-01,0.02,fwc2024,Clause 1.10.1.3,New agreement increase

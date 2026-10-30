@@ -1,0 +1,57 @@
+classification,period,annual_salary,source_id,locator
+Academic B1,2003-09,57230,fwc2003,Schedule 1 printed p93; rate from 4 September 2003
+Academic B1,2004-06,58947,fwc2003,Schedule 1 printed p93; rate from 15 April 2004
+Academic B1,2005-06,61442,salary_archive_20050617112342,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-04-09
+Academic B1,2005-12,62057,salary_archive_20051125175823,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-09-10
+Academic B1,2006-06,64602,salary_archive_20060515234126,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-04-08
+Academic B1,2006-09,65630,salary_archive_20060821032831,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-07-01
+Academic B1,2007-06,68256,salary_archive_20070607064111,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-04-07
+Academic B1,2007-12,68939,salary_archive_20071115222838,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-10-06
+Academic B1,2008-06,71697,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Academic B1,2008-09,71697,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Academic B1,2008-12,72414,salary_archive_20090303105354,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-10-04
+Academic B1,2009-06,73863,fwc2010,Schedule 1 printed p72; rate from first full pay period after 4 April 2009
+Academic B1,2012-06,85203,fwc2010,Schedule 1 printed p72; final March 2012 increase
+Academic B1,2017-06,98775,fwc2013,Schedule 1 printed p87; May 2017 rate
+Academic C4,2003-09,76545,fwc2003,Schedule 1 printed p93; rate from 4 September 2003
+Academic C4,2004-06,78841,fwc2003,Schedule 1 printed p93; rate from 15 April 2004
+Academic C4,2005-06,82178,salary_archive_20050617112342,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-04-09
+Academic C4,2005-12,83000,salary_archive_20051125175823,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-09-10
+Academic C4,2006-06,86403,salary_archive_20060515234126,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-04-08
+Academic C4,2006-09,87777,salary_archive_20060821032831,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-07-01
+Academic C4,2007-06,91289,salary_archive_20070607064111,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-04-07
+Academic C4,2007-12,92202,salary_archive_20071115222838,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-10-06
+Academic C4,2008-06,95891,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Academic C4,2008-09,95891,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Academic C4,2008-12,96850,salary_archive_20090303105354,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-10-04
+Academic C4,2009-06,98787,fwc2010,Schedule 1 printed p72; rate from first full pay period after 4 April 2009
+Academic C4,2012-06,113951,fwc2010,Schedule 1 printed p72; final March 2012 increase
+Academic C4,2017-06,132100,fwc2013,Schedule 1 printed p88; May 2017 rate
+Professional 5.1,2003-09,39914,fwc2003,Schedule 1 printed p94; rate from 4 September 2003
+Professional 5.1,2004-06,41111,fwc2003,Schedule 1 printed p94; rate from 15 April 2004
+Professional 5.1,2005-06,42851,salary_archive_20050617112342,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-04-09
+Professional 5.1,2005-12,43280,salary_archive_20051125175823,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-09-10
+Professional 5.1,2006-06,45055,salary_archive_20060515234126,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-04-08
+Professional 5.1,2006-09,45772,salary_archive_20060821032831,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-07-01
+Professional 5.1,2007-06,47603,salary_archive_20070607064111,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-04-07
+Professional 5.1,2007-12,48079,salary_archive_20071115222838,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-10-06
+Professional 5.1,2008-06,50004,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Professional 5.1,2008-09,50004,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Professional 5.1,2008-12,50505,salary_archive_20090303105354,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-10-04
+Professional 5.1,2009-06,51516,fwc2010,Schedule 1 printed p78; rate from first full pay period after 4 April 2009
+Professional 5.1,2012-06,59426,fwc2010,Schedule 1 printed p78; final March 2012 increase
+Professional 5.1,2017-06,68892,fwc2013,Schedule 1 printed p95; May 2017 rate
+Professional 7.1,2003-09,51087,fwc2003,Schedule 1 printed p95; rate from 4 September 2003
+Professional 7.1,2004-06,52620,fwc2003,Schedule 1 printed p95; rate from 15 April 2004
+Professional 7.1,2005-06,54847,salary_archive_20050617112342,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-04-09
+Professional 7.1,2005-12,55396,salary_archive_20051125175823,PPP16 sections 16.1.1.1/16.2.1; rates effective 2005-09-10
+Professional 7.1,2006-06,57668,salary_archive_20060515234126,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-04-08
+Professional 7.1,2006-09,58585,salary_archive_20060821032831,PPP16 sections 16.1.1.1/16.2.1; rates effective 2006-07-01
+Professional 7.1,2007-06,60929,salary_archive_20070607064111,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-04-07
+Professional 7.1,2007-12,61538,salary_archive_20071115222838,PPP16 sections 16.1.1.1/16.2.1; rates effective 2007-10-06
+Professional 7.1,2008-06,64001,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Professional 7.1,2008-09,64001,salary_archive_20080908014833,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-04-05
+Professional 7.1,2008-12,64642,salary_archive_20090303105354,PPP16 sections 16.1.1.1/16.2.1; rates effective 2008-10-04
+Professional 7.1,2009-06,65935,fwc2010,Schedule 1 printed p78; rate from first full pay period after 4 April 2009
+Professional 7.1,2012-06,76057,fwc2010,Schedule 1 printed p78; final March 2012 increase
+Professional 7.1,2017-06,88171,fwc2013,Schedule 1 printed p95; May 2017 rate

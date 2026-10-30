@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.monash.edu/enterprise-agreements/staff-salary-rates/academic",
+    "retrieved_utc": "2026-10-28T03:31:59.457159+00:00"
+  },
+  {
+    "url": "https://www.monash.edu/enterprise-agreements/staff-salary-rates/professional",
+    "retrieved_utc": "2026-10-28T03:31:59.457592+00:00"
+  },
+  {
+    "url": "https://services.anu.edu.au/human-resources/salaries-benefits/academic-staff-salary-schedule",
+    "retrieved_utc": "2026-10-28T03:31:59.457728+00:00",
+    "sha256": "22f26fbebbd91c13690825420027e543e9037eff01af22a9beb83c728d443a2f"
+  },
+  {
+    "url": "https://services.anu.edu.au/human-resources/enterprise-agreement/schedule-3-professional-staff-salaries",
+    "retrieved_utc": "2026-10-28T03:31:59.457830+00:00",
+    "sha256": "7600f36e4ec77d016e1c2e66579851916a760496e9bc6bf1bd1ffef7b91f2e50"
+  },
+  {
+    "url": "https://about.uq.edu.au/careers/why-work-uq/pay-scales/academic",
+    "retrieved_utc": "2026-10-28T03:31:59.457917+00:00",
+    "sha256": "7c2ef4c4d881b4395f44e6c32194dd0b0b543908f9e2c383fc1c5b63055a58fd"
+  },
+  {
+    "url": "https://about.uq.edu.au/careers/why-work-uq/pay-scales/professional-research",
+    "retrieved_utc": "2026-10-28T03:31:59.556608+00:00",
+    "sha256": "048ed58da41f9ee59f2d7e79b6784f72105c0451caf211d938b6f31996b736bc"
+  },
+  {
+    "url": "https://www.sydney.edu.au/content/dam/intranet/public-documents/employment/enterprise-agreement/enterprise-agreement.pdf",
+    "retrieved_utc": "2026-10-28T03:31:59.563673+00:00",
+    "sha256": "9b0ebe04302312b211079053ffcbffdab49ae14ef075bc1178aa494eb8fe4862"
+  },
+  {
+    "url": "https://staff.unimelb.edu.au/__data/assets/pdf_file/0006/4902810/2024-enterprise-agreement.pdf",
+    "retrieved_utc": "2026-10-28T03:31:59.645060+00:00"
+  },
+  {
+    "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/sep-2026",
+    "retrieved_utc": "2026-10-28T03:31:59.690251+00:00",
+    "sha256": "96b888bfa249a3f08b98d533ab27ba1075f5ccc7fc27f7e7a7c94ff7de2b3a99"
+  },
+  {
+    "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/sep-2026",
+    "sha256": "59c89bf477cec8075dfa80f1c29f97654f16f148b11427bed35fbad869eb7d47",
+    "description": "Table 17 quarterly original A2325846C, September2026 vintage"
+  },
+  {
+    "url": "https://www.monash.edu/enterprise-agreements/staff-salary-rates/academic",
+    "sha256": "ca8fbec7a93376e83f3ec0e48c8f844c111d68bfb5c71f7b1a3ddf0894df8cb9"
+  },
+  {
+    "url": "https://www.monash.edu/enterprise-agreements/staff-salary-rates/professional",
+    "sha256": "92379b69fbd45eba7ec0b15ef2021887e5a4c7ac1926834b15d427d9af78476f"
+  },
+  {
+    "url": "https://staff.unimelb.edu.au/__data/assets/pdf_file/0006/4902810/2024-enterprise-agreement.pdf",
+    "sha256": "7d8b692db11f54c1fbe0560d72ce3df74724d11773f3404fbc5e7a1e63a25678"
+  },
+  {
+    "url": "https://web.archive.org/web/20150311011823id_/http://hr.uq.edu.au/content/EmpRelations/EnterpriseAgreement/Staff-Agreement-2014-2017.pdf",
+    "sha256": "c7fe5f1d167866924d1b821e86e7a82291fb20db46c0dbf8384b9d955c248e88",
+    "description": "UQ approved2014 agreement including30October correction, clause28 and salary schedules; recovered by parallel history audit"
+  }
+]

@@ -1,0 +1,9 @@
+--- author-final/public-article-kp.Rmd
++++ release/public-article-kp.Rmd
+@@ -713,5 +713,5 @@
+ 
+ $$
+-g_{\max}=\left(`r sprintf('%.4f', fv('2026-09')/fv('2019-12'))`\times1.035^4\right)^{1/`r sprintf('%.2f', public_forward_years)`}-1\approx`r sprintf('%.2f%%', 100*public_forward_threshold('2019-12'))`
++g_{\max}=\left(`r sprintf('%.4f', fv('2026-09')/fv('2019-12'))`\times1.035^4\right)^{1/`r sprintf('%.2f', public_forward_years)`}-1\approx`r sprintf('%.2f', 100*public_forward_threshold('2019-12'))`\%
+ $$
+ 
